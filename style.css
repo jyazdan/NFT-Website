@@ -1,0 +1,48 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  color: #2b283a;
+}
+
+header {
+  background-color: #5f29a3;
+  padding: 45px 0px;
+}
+
+h1 {
+  color: whitesmoke;
+  font-size: 36px;
+  margin: 0;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+h3 {
+  margin: 0;
+  color: #d0aaff;
+  font-size: 20px;
+}
+
+section {
+  padding: 45px 0px;
+}
+
+a {
+  color: #ef5839;
+  text-decoration-style: dotted;
+}
+
+a:hover {
+  color: #d4b44c;
+}
+
+a:active {
+  color: #d4b44c;
+}
+
+.main-image {
+  width: 100%;
+}
